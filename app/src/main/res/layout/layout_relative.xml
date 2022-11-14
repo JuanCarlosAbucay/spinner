@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:id="@+id/textView"
+        android:text="@string/relative"
+        android:textSize="50dp">
+    </TextView>
+
+    <ImageView
+        android:layout_width="400dp"
+        android:layout_height="400dp"
+        android:id="@+id/imageView"
+        android:src="@mipmap/ic_gormiti_foreground">
+    </ImageView>
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:id="@+id/button"
+        android:text="relative"
+        android:layout_marginTop="300dp">
+    </Button>
+</RelativeLayout>

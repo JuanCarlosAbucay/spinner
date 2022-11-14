@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Juan Carlos/AndroidStudioProjects/Layout/app/src/main/res/layout/layout.xml" value="0.19429347826086957" />
+        <entry key="..\:/Users/Juan Carlos/AndroidStudioProjects/Layout/app/src/main/res/layout/layout_constraint.xml" value="0.17889492753623187" />
+        <entry key="..\:/Users/Juan Carlos/AndroidStudioProjects/Layout/app/src/main/res/layout/layout_doble.xml" value="0.25" />
+        <entry key="..\:/Users/Juan Carlos/AndroidStudioProjects/Layout/app/src/main/res/layout/layout_frame.xml" value="0.25" />
+        <entry key="..\:/Users/Juan Carlos/AndroidStudioProjects/Layout/app/src/main/res/layout/layout_grid.xml" value="0.24322889006903878" />
+        <entry key="..\:/Users/Juan Carlos/AndroidStudioProjects/Layout/app/src/main/res/layout/layout_relative.xml" value="0.25" />
+        <entry key="..\:/Users/Juan Carlos/AndroidStudioProjects/Layout/app/src/main/res/layout/layout_table.xml" value="0.25" />
+        <entry key="..\:/Users/Juan Carlos/AndroidStudioProjects/Layout/app/src/main/res/mipmap-anydpi-v26/ic_adria.xml" value="0.252" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

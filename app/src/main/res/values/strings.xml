@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Layout</string>
+    <string name="linear">linear</string>
+    <string name="frame">Frame</string>
+    <string name="table">table</string>
+    <string name="grid">grid</string>
+    <string name="relative">relative</string>
+</resources>

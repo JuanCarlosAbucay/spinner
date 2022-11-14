@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TableRow>
+        <TextView
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:id="@+id/textView"
+            android:text="@string/table"
+            android:textSize="50dp">
+        </TextView>
+    </TableRow>
+    <TableRow>
+        <ImageView
+            android:layout_width="400dp"
+            android:layout_height="400dp"
+            android:id="@+id/imageView"
+            android:src="@mipmap/ic_kebab">
+        </ImageView>
+    </TableRow>
+    <TableRow>
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="100dp"
+            android:id="@+id/button"
+            android:text="table">
+        </Button>
+    </TableRow>
+</TableLayout>
