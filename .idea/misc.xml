@@ -3,14 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Juan Carlos/AndroidStudioProjects/Layout/app/src/main/res/drawable/toggle_style.xml" value="0.2385" />
         <entry key="..\:/Users/Juan Carlos/AndroidStudioProjects/Layout/app/src/main/res/layout/layout.xml" value="0.19429347826086957" />
         <entry key="..\:/Users/Juan Carlos/AndroidStudioProjects/Layout/app/src/main/res/layout/layout_constraint.xml" value="0.17889492753623187" />
-        <entry key="..\:/Users/Juan Carlos/AndroidStudioProjects/Layout/app/src/main/res/layout/layout_doble.xml" value="0.25" />
+        <entry key="..\:/Users/Juan Carlos/AndroidStudioProjects/Layout/app/src/main/res/layout/layout_doble.xml" value="0.1" />
         <entry key="..\:/Users/Juan Carlos/AndroidStudioProjects/Layout/app/src/main/res/layout/layout_frame.xml" value="0.25" />
         <entry key="..\:/Users/Juan Carlos/AndroidStudioProjects/Layout/app/src/main/res/layout/layout_grid.xml" value="0.24322889006903878" />
+        <entry key="..\:/Users/Juan Carlos/AndroidStudioProjects/Layout/app/src/main/res/layout/layout_linear.xml" value="0.1337386018237082" />
         <entry key="..\:/Users/Juan Carlos/AndroidStudioProjects/Layout/app/src/main/res/layout/layout_relative.xml" value="0.25" />
         <entry key="..\:/Users/Juan Carlos/AndroidStudioProjects/Layout/app/src/main/res/layout/layout_table.xml" value="0.25" />
         <entry key="..\:/Users/Juan Carlos/AndroidStudioProjects/Layout/app/src/main/res/mipmap-anydpi-v26/ic_adria.xml" value="0.252" />
+        <entry key="..\:/Users/Juan Carlos/AndroidStudioProjects/Layout/app/src/main/res/mipmap-anydpi-v26/ic_toggle_on.xml" value="0.2115" />
       </map>
     </option>
   </component>

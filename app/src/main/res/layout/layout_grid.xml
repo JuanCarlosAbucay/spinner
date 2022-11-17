@@ -10,22 +10,33 @@
         android:layout_height="100dp"
         android:id="@+id/textView"
         android:text="@string/grid"
-        android:textSize="30dp"
+        android:textSize="30sp"
         android:layout_columnWeight="1">
     </TextView>
 
-    <ImageView
+    <ImageButton
+        android:id="@+id/imageView"
         android:layout_width="100dp"
         android:layout_height="100dp"
-        android:id="@+id/imageView"
-        android:src="@mipmap/ic_mistical_foreground"
-        android:layout_columnWeight="1">
-    </ImageView>
+        android:layout_columnWeight="1"
+        android:backgroundTint="#FFFFFF"
+        android:scaleType="centerCrop"
+        android:src="@mipmap/ic_mistical_foreground">
+    </ImageButton>
     <Button
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:id="@+id/button"
-        android:text="grid"
+        android:text="@string/grid"
         android:layout_columnWeight="1">
     </Button>
+    <ImageButton
+        android:id="@+id/imageButton2"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:backgroundTint="#FFFFFF"
+        android:scaleType="centerCrop"
+        android:src="@mipmap/ic_flecha_foreground"
+        android:layout_columnWeight="1">
+    </ImageButton>
 </GridLayout>

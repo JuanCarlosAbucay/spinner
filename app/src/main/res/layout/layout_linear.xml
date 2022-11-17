@@ -7,23 +7,34 @@
 
     <TextView
         android:layout_width="200dp"
-        android:layout_height="200dp"
+        android:layout_height="100dp"
         android:text="@string/linear"
         android:id="@+id/textView"
         android:textAlignment="center"
         android:textSize="50dp">
     </TextView>
 
-    <ImageView
-        android:layout_width="300dp"
-        android:layout_height="300dp"
+    <ImageButton
+        android:layout_width="200dp"
+        android:layout_height="200dp"
         android:id="@+id/imageView"
-        android:src="@mipmap/ic_adria_foreground">
-    </ImageView>
+        android:src="@mipmap/ic_adria_foreground"
+        android:backgroundTint="#FFFFFF"
+        android:scaleType="centerCrop">
+    </ImageButton>
 
     <Button
-        android:layout_width="100dp"
+        android:layout_width="300dp"
         android:layout_height="100dp"
-        android:text="Button">
+        android:text="Button"
+        android:drawableLeft="@mipmap/ic_gormiti_foreground">
     </Button>
+    <ImageButton
+        android:id="@+id/imageButton2"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:backgroundTint="#FFFFFF"
+        android:scaleType="centerCrop"
+        android:src="@mipmap/ic_flecha_foreground">
+    </ImageButton>
 </LinearLayout>
