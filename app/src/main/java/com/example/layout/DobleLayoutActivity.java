@@ -15,7 +15,7 @@ public class DobleLayoutActivity extends Activity {
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(DobleLayoutActivity.this, FrameLayoutActivity.class);
+                Intent intent = new Intent(DobleLayoutActivity.this, FormulariActivity.class);
                 startActivity(intent);
             }
         });
