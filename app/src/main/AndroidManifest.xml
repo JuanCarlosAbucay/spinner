@@ -56,5 +56,10 @@
             android:name=".FormulariActivity"
             android:exported="false">
         </activity>
+        <activity
+            android:name=".ResumFormulariActivity"
+            android:exported="false">
+        </activity>
+
     </application>
 </manifest>

@@ -14,4 +14,5 @@
     <string name="tel_fon">Telèfon</string>
     <string name="mail">Mail</string>
     <string name="protecci_n_de_datos_n_juramos_protejer_los_datos_mientras_el_usuario_pague_n_es_posible_que_se_vendan_los_datos_a_empresas_externas_al_leer_esto_acepta_estos_t_rminos"><b>Protección de datos.</b> \n Juramos <b>protejer</b> los datos mientras el usuario pague \n Es posible que se <b>vendan</b> los datos a empresas externas \n Al leer esto <b>acepta</b> estos términos.</string>
+    <string name="submit">SUBMIT</string>
 </resources>
