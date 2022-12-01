@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView"
+        android:text=" Resum \n CheckBox"
+        android:textSize="40dp"/>
+    <TextView
+        android:layout_width="400dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/resumCheckBox"
+        android:textSize="30dp"
+        android:text="hola"
+        android:layout_gravity="center"
+        android:textAlignment="center"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:text=" Resum \n RadioButton"
+        android:textSize="40dp"
+        android:layout_marginTop="30dp"/>
+    <TextView
+        android:layout_width="400dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/resumRadioButton"
+        android:textSize="30dp"
+        android:text="hola"
+        android:layout_gravity="center"
+        android:textAlignment="center"/>
+</LinearLayout>

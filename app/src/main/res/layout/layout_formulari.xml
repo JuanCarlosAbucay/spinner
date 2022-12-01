@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView"
+        android:text="@string/formulari"
+        android:textSize="40sp"
+        android:layout_marginBottom="30dp"/>
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:id="@+id/Nom"
+        android:hint="@string/nom"
+        android:textStyle="bold"
+        android:drawableStart="@mipmap/ic_gormiti"
+        android:layout_marginBottom="20dp"/>
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:id="@+id/CogNom"
+        android:hint="@string/cognom"
+        android:textStyle="bold"
+        android:drawableStart="@mipmap/ic_mistical"
+        android:layout_marginBottom="20dp"/>
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:id="@+id/Tel"
+        android:hint="@string/tel_fon"
+        android:drawableStart="@mipmap/ic_adria"
+        android:inputType="phone"
+        android:layout_marginBottom="20dp"/>
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:id="@+id/Mail"
+        android:hint="@string/mail"
+        android:drawableStart="@mipmap/ic_miguel"
+        android:inputType="textEmailAddress"
+        android:layout_marginBottom="100dp"/>
+
+    <TextView
+        android:id="@+id/dades"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/protecci_n_de_datos_n_juramos_protejer_los_datos_mientras_el_usuario_pague_n_es_posible_que_se_vendan_los_datos_a_empresas_externas_al_leer_esto_acepta_estos_t_rminos"
+        android:textAlignment="center"
+        android:textSize="10sp"
+        tools:ignore="SmallSp" />
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:id="@+id/button"
+        android:text="@string/submit"/>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/simpleListView"/>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/simpleListView2"/>
+    <Spinner
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinner"/>
+</LinearLayout>

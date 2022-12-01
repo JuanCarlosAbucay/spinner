@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="valors_array">
+        <item>Fire Emblem: Awakening</item>
+        <item>Fire Emblem: Engage</item>
+        <item>Fire Emblem: Three Houses</item>
+        <item>Fire Emblem: The Blinding Blade</item>
+        <item>Fire Emblem: Sacred Stones</item>
+    </string-array>
+</resources>
